@@ -1,0 +1,4 @@
+export const trucks = [{ truck_plate: '30a-32145', cargo_type: 'computer', driver: 'nguyen van a', truck_type: '10 tan', price: '1000', dimession: '12.02.2012', parking_address: 'hn', production_year: '1991', status: 'ide', description: 'ok' },
+    { truck_plate: '15a-32145', cargo_type: 'computer', driver: 'nguyen van a', truck_type: '10 tan', price: '1000', dimession: '12.02.2012', parking_address: 'hn', production_year: '1991', status: 'ide', description: 'ok' },
+    { truck_plate: '16a-32145', cargo_type: 'computer', driver: 'nguyen van b', truck_type: '10 tan', price: '1000', dimession: '12.02.2012', parking_address: 'hn', production_year: '1991', status: 'ide', description: 'ok' }
+    ]

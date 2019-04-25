@@ -1,0 +1,22 @@
+const constants = {
+    GET_TRUCKS: "TruckAction.GET_TRUCKS",
+    GET_TRUCKS_ERROR:"TruckAction.GET_TRUCKS_ERROR",
+    TRUCKS_LOADED: "TruckAction.TRUCKS_LOADED",
+    SEARCH_TRUCKS: "TruckAction.SEARCH_TRUCKS",
+    SEARCH_ERROR:"TruckAction.SEARCH_ERROR",
+	
+    ADD_TRUCK: "ModalAction.ADD_TRUCK",
+    MODAL_ERROR:"ModalAction.MODAL_ERROR",
+    OPEN_ADD_MODAL:"ModalAction.OPEN_ADD_MODAL",
+    CLOSE_ADD_MODAL:"ModalAction.CLOSE_ADD_MODAL",
+    OPEN_UPDATE_MODAL:"ModalAction.OPEN_UPDATE_MODAL",
+    CLOSE_UPDATE_MODAL:"ModalAction.CLOSE_UPDATE_MODAL",
+    OPEN_DELETE_MODAL:"ModalAction.OPEN_DELETE_MODAL",
+    CLOSE_DELETE_MODAL:"ModalAction.CLOSE_DELETE_MODAL",
+    UPDATE_TRUCK: "ModalAction.UPDATE_TRUCK",
+    DELETE_TRUCK:"ModalAction.DELETE_TRUCK",
+    ERROR:"ModalAction.ERROR",
+   
+}
+
+export default constants
