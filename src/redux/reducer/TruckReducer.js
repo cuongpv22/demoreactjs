@@ -9,8 +9,8 @@ var componentState = {
 }
 
 const initialState = {
-    trucks: [{ truck_plate: '30a-32145', cargo_type: 'computer', driver: 'nguyen van a', truck_type: '10 tan', price: '1000', dimession: '12.02.2012', parking_address: 'hn', production_year: '1991', status: 'ide', description: 'ok' },
-    { truck_plate: '16a-3122', cargo_type: 'computer', driver: 'nguyen van a', truck_type: '10 tan', price: '1000', dimession: '12.02.2012', parking_address: 'hn', production_year: '1991', status: 'ide', description: 'ok' }
+    trucks: [{ truck_plate: '30A-32145', cargo_type: 'computer', driver: 'Nguyen Van A', truck_type: '10 tan', price: '1000', dimession: '12.02.2012', parking_address: 'Ha Noi', production_year: '1991', status: 'ide', description: 'ok' },
+    { truck_plate: '16A-3122', cargo_type: 'computer', driver: 'Nguyen Van B', truck_type: '10 tan', price: '1000', dimession: '12.02.2012', parking_address: 'Hai Phong', production_year: '1991', status: 'ide', description: 'ok' }
     ],
     truck: new Truck(),
     total: 0,
